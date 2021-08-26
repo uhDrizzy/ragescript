@@ -1,0 +1,2 @@
+# ragescript
+rage script lol
